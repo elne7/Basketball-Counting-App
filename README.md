@@ -1,21 +1,12 @@
-<<<<<<< HEAD
 # basket_ball_app
 
-A new Flutter project.
+A new Flutter project that counts the points in a basketball game between two teams.
 
-## Getting Started
+Using MVVM architecture to write a maintenance, reusable, clean code.
 
-This project is a starting point for a Flutter application.
+Also, Adding a Bloc provider as state management for the app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Points-Counting-App
-A small mobil application that counts points of a game using flutter and dart
->>>>>>> bff90a5b1d85b181cd17019d37f7d70864af4e87
+And here are some pics of the app.
+![pic1](https://github.com/user-attachments/assets/065a882c-e0e6-4254-aa8f-fe177d32abd5)
+![pic2](https://github.com/user-attachments/assets/1faa9a49-d201-4fd0-bac2-8883a286dbbf)
+![pic3](https://github.com/user-attachments/assets/1c591465-c45c-47a8-97c6-6413391d7f4b)
